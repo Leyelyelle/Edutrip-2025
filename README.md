@@ -1,1 +1,1 @@
-# Edutrip-2025
+# edutrip-2025
